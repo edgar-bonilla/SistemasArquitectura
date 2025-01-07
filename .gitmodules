@@ -4,3 +4,6 @@
 [submodule "PROYECTO3"]
 	path = PROYECTO3
 	url = https://github.com/edgar-bonilla/PROYECTO3.git
+[submodule "TAREA1"]
+	path = TAREA1
+	url = https://github.com/edgar-bonilla/TAREA1.git
