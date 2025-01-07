@@ -10,3 +10,6 @@
 [submodule "TAREA2"]
 	path = TAREA2
 	url = https://github.com/edgar-bonilla/TAREA2.git
+[submodule "TAREA3"]
+	path = TAREA3
+	url = https://github.com/edgar-bonilla/TAREA3.git
